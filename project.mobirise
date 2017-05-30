@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Caito.html",
+    "currentPage": "cairo.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -732,7 +732,7 @@
         }
       ]
     },
-    "Caito.html": {
+    "cairo.html": {
       "settings": {
         "title": "Cairo",
         "meta_descr": "Descover Cairo trough Adrian Alecu´s Photography.",
