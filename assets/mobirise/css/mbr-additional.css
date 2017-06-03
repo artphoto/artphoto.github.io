@@ -603,6 +603,9 @@ h6,
 #menu-2 .close-icon::after {
   background-color: #c0a375;
 }
+#contacts1-l P {
+  color: #c0a375;
+}
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
