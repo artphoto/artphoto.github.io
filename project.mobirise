@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "newyork.html",
+    "currentPage": "cairo.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -588,7 +588,7 @@
             "showButton": false
           },
           "title": "NEW YORK",
-          "text": "<p>The Empire State</p>",
+          "text": "<p>2014</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1317,7 +1317,7 @@
             "showButton": false
           },
           "title": "CAIRO",
-          "text": "<p>There where the orient is starts</p>",
+          "text": "<p>2007</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
