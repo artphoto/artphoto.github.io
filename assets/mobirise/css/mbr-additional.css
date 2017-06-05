@@ -603,6 +603,10 @@ h6,
 #menu-2 .close-icon::after {
   background-color: #c0a375;
 }
+#msg-box8-13 .mbr-section-title,
+#msg-box8-13 p {
+  color: #fff;
+}
 #contacts1-l P {
   color: #c0a375;
 }
