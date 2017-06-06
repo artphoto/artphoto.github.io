@@ -1329,52 +1329,6 @@
           "text": "Copyright (c) 2017 Adrian Alecu"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "color": "#c0a375"
-            }
-          },
-          "_anchor": "contacts1-16",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/footer-logo-128x128.png",
-              "width": 128,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "paper-plane",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
-          "text3": "<p><strong>Links</strong><br>\nwww.adrianalecu.us<br>\n<a href=\"http://portaeporta.tumblr.com/\">Tumbler</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://tictail.com/s/portaeporta\">Tictail</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
-        },
-        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -1566,6 +1520,16 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020048-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020048-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p1020080-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/p1020080-2000x1125.jpg",
                 "caption": "Type caption here",
@@ -1576,8 +1540,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1020046-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1020046-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020091-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020091-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1586,8 +1550,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1020048-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1020048-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020092-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020092-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020093-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020093-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020100-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020100-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1603,6 +1587,52 @@
           "_anchor": "gallery3-18",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#c0a375"
+            }
+          },
+          "_anchor": "contacts1-16",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/footer-logo-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "paper-plane",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
+          "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
+          "text3": "<p><strong>Links</strong><br>\nwww.adrianalecu.us<br>\n<a href=\"http://portaeporta.tumblr.com/\">Tumbler</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://tictail.com/s/portaeporta\">Tictail</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     }

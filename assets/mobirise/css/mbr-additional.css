@@ -678,13 +678,13 @@ h6,
 #menu-14 .close-icon::after {
   background-color: #c0a375;
 }
-#contacts1-16 P {
-  color: #c0a375;
-}
 #msg-box8-17 .mbr-section-title,
 #msg-box8-17 p {
   color: #fff;
 }
 #msg-box8-17 .lead P {
   color: #f3c649;
+}
+#contacts1-16 P {
+  color: #c0a375;
 }
