@@ -1,7 +1,7 @@
 {
   "settings": {
-    "currentPage": "page3.html",
-    "name": "My Site",
+    "currentPage": "index.html",
+    "name": "Artphoto Adrian Alecu",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "@PROJECT_PATH@/assets/images/footer-logo-128x128-1.png",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "UA-100621051-1"
   },
   "pages": {
     "index.html": {
