@@ -178,7 +178,8 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#c0a375"
+              "color": "#c0a375",
+              "text-align": "right"
             }
           },
           "_anchor": "contacts1-l",
@@ -215,7 +216,7 @@
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
           "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
-          "text3": "<p><strong>Links</strong></p><p><strong><br></strong><a href=\"http://adrianalecu.us\">www.adrianalecu.us</a></p><p>\n<a href=\"http://portaeporta.tumblr.com/\">Tumbl</a>r<br>\n<a href=\"https://tictail.com/s/portaeporta\">Tictail</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text3": "<p><strong>Links</strong></p><p></p><a href=\"http://adrianalecu.us\">www.adrianalecu.us</a><br><p><a href=\"http://portaeporta.tumblr.com/\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46); line-height: 1.5;\">Tumb</a>lr</p><p>\n<a href=\"https://tictail.com/s/portaeporta\">Tictail</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     },
@@ -529,7 +530,8 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#c0a375"
+              "color": "#c0a375",
+              "text-align": "right"
             }
           },
           "_anchor": "contacts1-l",
@@ -566,7 +568,7 @@
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
           "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
-          "text3": "<p><strong>Links</strong><br>\nwww.adrianalecu.us<br>\n<a href=\"http://portaeporta.tumblr.com/\">Tumbler</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://tictail.com/s/portaeporta\">Tictail</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text3": "<p><strong>Links</strong></p><p></p><a href=\"http://adrianalecu.us\">www.adrianalecu.us</a><br><p><a href=\"http://portaeporta.tumblr.com/\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46); line-height: 1.5;\">Tumb</a>lr</p><p>\n<a href=\"https://tictail.com/s/portaeporta\">Tictail</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     },
@@ -1181,7 +1183,8 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#c0a375"
+              "color": "#c0a375",
+              "text-align": "right"
             }
           },
           "_anchor": "contacts1-l",
@@ -1218,7 +1221,7 @@
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
           "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
-          "text3": "<p><strong>Links</strong><br>\nwww.adrianalecu.us<br>\n<a href=\"http://portaeporta.tumblr.com/\">Tumbler</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://tictail.com/s/portaeporta\">Tictail</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text3": "<p><strong>Links</strong></p><p></p><a href=\"http://adrianalecu.us\">www.adrianalecu.us</a><br><p><a href=\"http://portaeporta.tumblr.com/\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46); line-height: 1.5;\">Tumb</a>lr</p><p>\n<a href=\"https://tictail.com/s/portaeporta\">Tictail</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     },
@@ -1675,7 +1678,8 @@
           "_name": "contacts1",
           "_styles": {
             "P": {
-              "color": "#c0a375"
+              "color": "#c0a375",
+              "text-align": "right"
             }
           },
           "_anchor": "contacts1-16",
@@ -1712,7 +1716,7 @@
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
           "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
-          "text3": "<p><strong>Links</strong><br>\nwww.adrianalecu.us<br>\n<a href=\"http://portaeporta.tumblr.com/\">Tumbler</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a><br>\n<a href=\"https://tictail.com/s/portaeporta\">Tictail</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
+          "text3": "<p><strong>Links</strong></p><p></p><a href=\"http://adrianalecu.us\">www.adrianalecu.us</a><br><p><a href=\"http://portaeporta.tumblr.com/\" style=\"font-size: 0.875rem; background-color: rgb(46, 46, 46); line-height: 1.5;\">Tumb</a>lr</p><p>\n<a href=\"https://tictail.com/s/portaeporta\">Tictail</a><a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></p>"
         }
       ]
     }
