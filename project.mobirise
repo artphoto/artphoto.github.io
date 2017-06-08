@@ -216,7 +216,7 @@
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
           "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
-          "text3": "<p><strong>Links</strong></p>www.<a href=\"http://adrianalecu.us\">adrianalecu</a>.us<br><a href=\"http://portaeporta.tumblr.com/\">Tumblr</a><br><a href=\"https://tictail.com/s/portaeporta\">Tictail</a>"
+          "text3": "<p></p><p><strong>Links</strong></p><a href=\"http://adrianalecu.us\">www.adrianalecu.</a>us<br><a href=\"http://portaeporta.tumblr.com/\">Tumblr</a><br><a href=\"https://tictail.com/s/portaeporta\">Tictail</a><p></p>"
         }
       ]
     },
@@ -568,7 +568,7 @@
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
           "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
-          "text3": "<p><strong>Links</strong></p>www.<a href=\"http://adrianalecu.us\">adrianalecu</a>.us<br><a href=\"http://portaeporta.tumblr.com/\">Tumblr</a><br><a href=\"https://tictail.com/s/portaeporta\">Tictail</a>"
+          "text3": "<p></p><p><strong>Links</strong></p><a href=\"http://adrianalecu.us\">www.adrianalecu.</a>us<br><a href=\"http://portaeporta.tumblr.com/\">Tumblr</a><br><a href=\"https://tictail.com/s/portaeporta\">Tictail</a><p></p>"
         }
       ]
     },
@@ -1221,7 +1221,7 @@
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
           "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
-          "text3": "<p><strong>Links</strong></p>www.<a href=\"http://adrianalecu.us\">adrianalecu</a>.us<br><a href=\"http://portaeporta.tumblr.com/\">Tumblr</a><br><a href=\"https://tictail.com/s/portaeporta\">Tictail</a>"
+          "text3": "<p></p><p><strong>Links</strong></p><a href=\"http://adrianalecu.us\">www.adrianalecu.</a>us<br><a href=\"http://portaeporta.tumblr.com/\">Tumblr</a><br><a href=\"https://tictail.com/s/portaeporta\">Tictail</a><p></p>"
         }
       ]
     },
@@ -1716,7 +1716,7 @@
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
           "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
-          "text3": "<p><strong>Links</strong></p>www.<a href=\"http://adrianalecu.us\">adrianalecu</a>.us<br><a href=\"http://portaeporta.tumblr.com/\">Tumblr</a><br><a href=\"https://tictail.com/s/portaeporta\">Tictail</a>"
+          "text3": "<p></p><p><strong>Links</strong></p><a href=\"http://adrianalecu.us\">www.adrianalecu.</a>us<br><a href=\"http://portaeporta.tumblr.com/\">Tumblr</a><br><a href=\"https://tictail.com/s/portaeporta\">Tictail</a><p></p>"
         }
       ]
     }
