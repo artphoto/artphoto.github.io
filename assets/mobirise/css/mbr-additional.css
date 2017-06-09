@@ -1,6 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
 
 
@@ -482,7 +482,10 @@ h6,
 #contacts1-16 P {
   color: #c0a375;
   text-align: left;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
+}
+#contacts1-16 STRONG {
+  text-align: right;
 }
 
 #menu-2 .hide-buttons .nav-btn {
@@ -553,7 +556,10 @@ h6,
 #contacts1-l P {
   color: #c0a375;
   text-align: left;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
+}
+#contacts1-l STRONG {
+  text-align: right;
 }
 
 #msg-box8-12 .mbr-section-title,
@@ -624,7 +630,10 @@ h6,
 #contacts1-l P {
   color: #c0a375;
   text-align: left;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
+}
+#contacts1-l STRONG {
+  text-align: right;
 }
 
 #menu-14 .hide-buttons .nav-btn {
@@ -698,5 +707,8 @@ h6,
 #contacts1-16 P {
   color: #c0a375;
   text-align: left;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
+}
+#contacts1-16 STRONG {
+  text-align: right;
 }

@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "name": "Artphoto Adrian Alecu",
     "theme": {
       "name": "mobirise3",
@@ -163,8 +163,11 @@
             "P": {
               "color": "#c0a375",
               "text-align": "left",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "STRONG": {
+              "text-align": "right"
             }
           },
           "_anchor": "contacts1-16",
@@ -200,8 +203,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
-          "text3": "<p></p><p><br></p><br><br><p></p>"
+          "text2": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br></p>",
+          "text3": "<p></p><p><b>Links</b><br></p><br>www.adrianalecu.us<br><a href=\"https://tictail.com/s/portaeporta\">Tictail</a><br><a href=\"http://portaeporta.tumblr.com/\">Tumblr</a><br><br><p></p>"
         },
         {
           "_name": "footer1",
@@ -534,8 +537,11 @@
             "P": {
               "color": "#c0a375",
               "text-align": "left",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "STRONG": {
+              "text-align": "right"
             }
           },
           "_anchor": "contacts1-l",
@@ -571,7 +577,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
+          "text2": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br></p>",
           "text3": "<p></p><p><br></p><br><br><p></p>"
         }
       ]
@@ -1189,8 +1195,11 @@
             "P": {
               "color": "#c0a375",
               "text-align": "left",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "STRONG": {
+              "text-align": "right"
             }
           },
           "_anchor": "contacts1-l",
@@ -1226,7 +1235,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
+          "text2": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br></p>",
           "text3": "<p></p><p><br></p><br><br><p></p>"
         }
       ]
@@ -1686,8 +1695,11 @@
             "P": {
               "color": "#c0a375",
               "text-align": "left",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "STRONG": {
+              "text-align": "right"
             }
           },
           "_anchor": "contacts1-16",
@@ -1723,8 +1735,8 @@
             }
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
-          "text2": "<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br>",
-          "text3": "<p></p><p><br></p><br><br><p></p>"
+          "text2": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br></p>",
+          "text3": "<p></p><p>Address<br></p><br><br><p></p>"
         }
       ]
     }
