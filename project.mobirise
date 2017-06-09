@@ -204,7 +204,7 @@
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
           "text2": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br></p>",
-          "text3": "<p></p><p><b>Links</b><br></p><br><a href=\"http://adrianalecu.us\" class=\"text-primary\">www.adrianalecu.us</a><br><a href=\"https://tictail.com/s/portaeporta\" class=\"text-primary\">Tictail</a><br><a href=\"http://portaeporta.tumblr.com/\" class=\"text-primary\">Tumblr</a><br><br><p></p>"
+          "text3": "<p></p><p><b>Links</b></p><a href=\"http://adrianalecu.us\" class=\"text-primary\">www.adrianalecu.us</a><br><a href=\"https://tictail.com/s/portaeporta\" class=\"text-primary\">Tictail</a><br><a href=\"http://portaeporta.tumblr.com/\" class=\"text-primary\">Tumblr</a><br><br><p></p>"
         },
         {
           "_name": "footer1",
@@ -578,7 +578,7 @@
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
           "text2": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br></p>",
-          "text3": "<p></p><p><b>Links</b><br></p><br><a href=\"http://adrianalecu.us\" class=\"text-primary\">www.adrianalecu.us</a><br><a href=\"https://tictail.com/s/portaeporta\" class=\"text-primary\">Tictail</a><br><a href=\"http://portaeporta.tumblr.com/\" class=\"text-primary\">Tumblr</a><br><br><p></p>"
+          "text3": "<p></p><p><b>Links</b></p><a href=\"http://adrianalecu.us\" class=\"text-primary\">www.adrianalecu.us</a><br><a href=\"https://tictail.com/s/portaeporta\" class=\"text-primary\">Tictail</a><br><a href=\"http://portaeporta.tumblr.com/\" class=\"text-primary\">Tumblr</a><br><br><p></p>"
         }
       ]
     },
@@ -1236,7 +1236,7 @@
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
           "text2": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br></p>",
-          "text3": "<p></p><p><b>Links</b><br></p><br><a href=\"http://adrianalecu.us\" class=\"text-primary\">www.adrianalecu.us</a><br><a href=\"https://tictail.com/s/portaeporta\" class=\"text-primary\">Tictail</a><br><a href=\"http://portaeporta.tumblr.com/\" class=\"text-primary\">Tumblr</a><br><br><p></p>"
+          "text3": "<p></p><p><b>Links</b></p><a href=\"http://adrianalecu.us\" class=\"text-primary\">www.adrianalecu.us</a><br><a href=\"https://tictail.com/s/portaeporta\" class=\"text-primary\">Tictail</a><br><a href=\"http://portaeporta.tumblr.com/\" class=\"text-primary\">Tumblr</a><br><br><p></p>"
         }
       ]
     },
@@ -1736,7 +1736,7 @@
           },
           "text1": "<strong>Address</strong><br>\n10435 Berlin<br>\nGermany",
           "text2": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<strong>Contacts</strong><br>\nEmail: adialecu(at)gmx.net<br>\nPhone: +49 157 70 51 4247<br><br></p>",
-          "text3": "<p></p><p><b>Links</b><br></p><br><a href=\"http://adrianalecu.us\" class=\"text-primary\">www.adrianalecu.us</a><br><a href=\"https://tictail.com/s/portaeporta\" class=\"text-primary\">Tictail</a><br><a href=\"http://portaeporta.tumblr.com/\" class=\"text-primary\">Tumblr</a><br><br><p></p>"
+          "text3": "<p></p><p><b>Links</b></p><a href=\"http://adrianalecu.us\" class=\"text-primary\">www.adrianalecu.us</a><br><a href=\"https://tictail.com/s/portaeporta\" class=\"text-primary\">Tictail</a><br><a href=\"http://portaeporta.tumblr.com/\" class=\"text-primary\">Tumblr</a><br><br><p></p>"
         }
       ]
     }
