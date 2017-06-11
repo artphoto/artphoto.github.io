@@ -553,6 +553,9 @@ h6,
 #msg-box8-13 p {
   color: #fff;
 }
+#msg-box8-13 .lead P {
+  color: #f3c649;
+}
 #contacts1-l P {
   color: #c0a375;
   text-align: left;
@@ -565,6 +568,9 @@ h6,
 #msg-box8-12 .mbr-section-title,
 #msg-box8-12 p {
   color: #fff;
+}
+#msg-box8-12 .lead P {
+  color: #f3c649;
 }
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
