@@ -2234,7 +2234,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p1020512-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/p1020313-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
