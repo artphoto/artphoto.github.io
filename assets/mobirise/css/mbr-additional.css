@@ -1100,6 +1100,10 @@ h6,
   text-align: right;
 }
 
+#msg-box8-22 .mbr-section-title,
+#msg-box8-22 p {
+  color: #fff;
+}
 #menu-1y .hide-buttons .nav-btn {
   display: none !important;
 }
