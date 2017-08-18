@@ -3612,7 +3612,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-1768-pano-2000x460.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-21-2000x1500.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
