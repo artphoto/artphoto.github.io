@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page11.html",
+    "currentPage": "page12.html",
     "name": "Artphoto Adrian Alecu",
     "theme": {
       "name": "mobirise3",
@@ -4413,8 +4413,128 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1010415-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1010415-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sicilia-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sicilia-2000x1126.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sicilia-1-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sicilia-1-2000x1126.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sicilia-2-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sicilia-2-2000x1126.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sicilia-3-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sicilia-3-2000x1126.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1030071-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1030071-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1030061-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1030061-2000x1125.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sicilia-4-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sicilia-4-2000x1126.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sicilia-6-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sicilia-6-2000x1126.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sicilia-2000x1106-800x442.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sicilia-2000x1106.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sicilia-7-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sicilia-7-2000x1126.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sicilia-8-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sicilia-8-2000x1126.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sicilia-9-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sicilia-9-2000x1126.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sicilia-11-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sicilia-11-2000x1126.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -4423,8 +4543,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1010429-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1010429-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sicilia-10-2000x1126-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/sicilia-10-2000x1126.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
