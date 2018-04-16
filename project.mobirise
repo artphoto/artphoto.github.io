@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page11.html",
     "name": "Artphoto Adrian Alecu",
     "theme": {
       "name": "mobirise3",
@@ -4003,12 +4003,12 @@
                 "alt": "",
                 "tags": "Responsive",
                 "playVideo": true,
-                "videoUrl": "https://vimeo.com/264227915",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2018-04-12-10-00-21.jpg",
+                "videoUrl": "https://vimeo.com/265002859",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-04-16-20-14-29.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "alt": "",
@@ -4085,7 +4085,7 @@
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
@@ -4280,7 +4280,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p1010388-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/p1020873-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4295,7 +4295,7 @@
             "showButton": false
           },
           "title": "SICILIA",
-          "text": "<p>2014</p>",
+          "text": "<p>2014 Italy&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -4316,15 +4316,15 @@
                 "thumb": "@PROJECT_PATH@/assets/images/bildschirmfoto-2018-04-16-um-09-2000x1123-800x449.png",
                 "image": "@PROJECT_PATH@/assets/images/bildschirmfoto-2018-04-16-um-09-2000x1123.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1010388-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1010388-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020861-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020861-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4333,8 +4333,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1010413-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1010413-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020873-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020873-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4343,8 +4343,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1010419-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1010419-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020886-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020886-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4353,8 +4353,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1010396-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1010396-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020898-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020898-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4363,8 +4363,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1010406-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1010406-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020907-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020907-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4373,8 +4373,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1010392-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1010392-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020909-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020909-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4383,8 +4383,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1010393-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1010393-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020910-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020910-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4393,8 +4393,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1010418-2000x1125-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1010418-2000x1125.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020923-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020923-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4403,8 +4403,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1010412-2000x1095-800x438.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1010412-2000x1095.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1020925-2000x1125-800x450.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1020925-2000x1125.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -4416,7 +4416,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/p1010415-2000x1125-800x450.jpg",
                 "image": "@PROJECT_PATH@/assets/images/p1010415-2000x1125.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
