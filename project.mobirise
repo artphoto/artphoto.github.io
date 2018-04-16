@@ -24,7 +24,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 94,
     "versionPublish": "3.12.1",
-    "favicon": "@PROJECT_PATH@/assets/images/footer-logo-128x128_1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/footer-logo-128x128-1.png",
     "noImageResize": "",
     "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-100621051-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-100621051-1');\r\n</script>\r\n",
     "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
@@ -114,7 +114,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -142,7 +142,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/us_bw127-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/us-bw127-2000x1250.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -306,7 +306,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -320,7 +320,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -358,7 +358,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/us_bw127-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/us-bw127-2000x1250.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -391,7 +391,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw122-2000x1241-800x496.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw122-2000x1241.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw122-2000x1241.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -401,7 +401,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw125-2000x1244-800x497.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw125-2000x1244.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw125-2000x1244.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -411,7 +411,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw126-2000x1238-800x495.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw126-2000x1238.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw126-2000x1238.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -421,7 +421,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw127-2000x1250-800x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw127-2000x1250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw127-2000x1250.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -431,7 +431,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw130-2000x1275-800x510.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw130-2000x1275.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw130-2000x1275.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -441,7 +441,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw127-2000x1250-800x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw127-2000x1250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw127-2000x1250.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -451,7 +451,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw132-2000x1262-800x504.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw132-2000x1262.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw132-2000x1262.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -461,7 +461,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw123-2000x1192-800x476.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw123-2000x1192.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw123-2000x1192.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -471,7 +471,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw124-2000x1406-800x562.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw124-2000x1406.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw124-2000x1406.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -481,7 +481,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw136-2000x1258-800x503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw136-2000x1258.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw136-2000x1258.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -491,7 +491,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw135-2000x1264-800x505.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw135-2000x1264.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw135-2000x1264.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -501,7 +501,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw137-2000x1260-800x504.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw137-2000x1260.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw137-2000x1260.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -511,7 +511,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw140-2000x1316-800x526.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw140-2000x1316.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw140-2000x1316.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -521,7 +521,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/us-bw138-2000x1252-800x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/us_bw138-2000x1252.jpg",
+                "image": "@PROJECT_PATH@/assets/images/us-bw138-2000x1252.jpg",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -618,7 +618,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img002_3134199546_o-2000x1251.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img002-3134199546-o-2000x1251.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -703,7 +703,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -717,7 +717,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -1062,7 +1062,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-020-3133390949-o-2000x1270-800x508.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-020_3133390949_o-2000x1270.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-020-3133390949-o-2000x1270.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1072,7 +1072,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-011-3133390023-o-2000x1246-800x498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-011_3133390023_o-2000x1246.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-011-3133390023-o-2000x1246.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1082,7 +1082,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-1-3134218172-o-2000x1577-800x630.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-1_3134218172_o-2000x1577.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-1-3134218172-o-2000x1577.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1092,7 +1092,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-002-3133388661-o-2000x1227-800x490.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-002_3133388661_o-2000x1227.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-002-3133388661-o-2000x1227.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1102,7 +1102,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-003-3134210608-o-2000x1227-800x490.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-003_3134210608_o-2000x1227.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-003-3134210608-o-2000x1227.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1112,7 +1112,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-004-1-3133389091-o-2000x1269-800x507.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-004_1_3133389091_o-2000x1269.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-004-1-3133389091-o-2000x1269.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1122,7 +1122,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-005-3134210940-o-2000x1246-800x498.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-005_3134210940_o-2000x1246.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-005-3134210940-o-2000x1246.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1132,7 +1132,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-006-3134211072-o-2000x1242-800x496.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-006_3134211072_o-2000x1242.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-006-3134211072-o-2000x1242.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1142,7 +1142,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-008-3133389467-o-2000x1297-800x518.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-008_3133389467_o-2000x1297.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-008-3133389467-o-2000x1297.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1152,7 +1152,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-007-3133389369-o-2000x1250-800x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-007_3133389369_o-2000x1250.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-007-3133389369-o-2000x1250.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1162,7 +1162,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-014-3134212252-o-2000x1252-800x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-014_3134212252_o-2000x1252.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-014-3134212252-o-2000x1252.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1172,7 +1172,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-015-3134212364-o-2000x1243-800x497.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-015_3134212364_o-2000x1243.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-015-3134212364-o-2000x1243.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1182,7 +1182,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/cairo-016-3133390497-o-2000x1242-800x496.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cairo-016_3133390497_o-2000x1242.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cairo-016-3133390497-o-2000x1242.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1337,7 +1337,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -1351,7 +1351,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "footer1",
@@ -2058,7 +2058,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -2072,7 +2072,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2219,7 +2219,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -2233,7 +2233,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2557,7 +2557,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -2571,7 +2571,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -3001,7 +3001,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -3015,7 +3015,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3219,7 +3219,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -3233,7 +3233,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3517,7 +3517,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -3531,7 +3531,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3751,7 +3751,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-1803-effects-2000x1500-800x600.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img_1803-effects-2000x1500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-1803-effects-2000x1500.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -3855,7 +3855,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -3869,7 +3869,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -4004,7 +4004,7 @@
                 "tags": "Responsive",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/264227915",
-                "videoPreview": "@PROJECT_PATH@/2018-04-12_10-00-21.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-04-12-10-00-21.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
                 "caption": "Type caption here",
@@ -4015,7 +4015,7 @@
                 "tags": "Responsive",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/72630688",
-                "videoPreview": "@PROJECT_PATH@/2018-04-11_23-01-58.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-04-11-23-01-58.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
                 "caption": "Type caption here",
@@ -4026,7 +4026,7 @@
                 "tags": "Responsive",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/66805161",
-                "videoPreview": "@PROJECT_PATH@/2018-04-12_09-49-58.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-04-12-09-49-58.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
                 "caption": "Type caption here",
@@ -4037,7 +4037,7 @@
                 "tags": "Animated",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/65813495",
-                "videoPreview": "@PROJECT_PATH@/2018-04-12_09-50-52.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-04-12-09-50-52.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
                 "caption": "Type caption here",
@@ -4048,7 +4048,7 @@
                 "tags": "Responsive",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/73075778",
-                "videoPreview": "@PROJECT_PATH@/2018-04-12_09-51-20.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-04-12-09-51-20.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
                 "caption": "Type caption here",
@@ -4059,7 +4059,7 @@
                 "tags": "Creative",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/264227915",
-                "videoPreview": "@PROJECT_PATH@/2018-04-11_23-17-55.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-04-11-23-17-55.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
                 "caption": "Type caption here",
@@ -4070,7 +4070,7 @@
                 "tags": "Responsive",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/107243221",
-                "videoPreview": "@PROJECT_PATH@/2018-04-12_09-53-01.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-04-12-09-53-01.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
                 "caption": "Type caption here",
@@ -4081,7 +4081,7 @@
                 "tags": "Responsive",
                 "playVideo": true,
                 "videoUrl": "https://vimeo.com/70827299",
-                "videoPreview": "@PROJECT_PATH@/2018-04-12_17-31-22.jpg",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2018-04-12-17-31-22.jpg",
                 "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
                 "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
                 "caption": "Type caption here",
@@ -4167,7 +4167,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -4181,7 +4181,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -4314,7 +4314,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/bildschirmfoto-2018-04-16-um-09-2000x1123-800x449.png",
-                "image": "@PROJECT_PATH@/assets/images/bildschirmfoto%202018-04-16%20um%2009-2000x1123.png",
+                "image": "@PROJECT_PATH@/assets/images/bildschirmfoto-2018-04-16-um-09-2000x1123.png",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -4508,7 +4508,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo%20(1)-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-1-128x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -4522,7 +4522,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ARTPHOTO</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"newyork.html\"><br><br></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"cairo.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">WORLD</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">America</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"newyork.html\">New York</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page7.html\">Cleveland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Toronto</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Europe</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page12.html\">Sicilia</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page10.html\">Calabria</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page9.html\">Switzerland</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Maastricht</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Orient</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Lebanon</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cairo.html\">Cairo</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page6.html\">Dubai</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page5.html\">Oman</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">PEOPLE</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page11.html\" aria-expanded=\"false\">VIDEO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page8.html\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
